@@ -6,7 +6,6 @@ export function DefaultLayout() {
   return (
     <LayoutContainer>
       <Home/>
-      
       <Outlet />
     </LayoutContainer>
   )
